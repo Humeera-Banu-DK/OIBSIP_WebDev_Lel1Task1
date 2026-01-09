@@ -44,8 +44,8 @@ and CSS, especially layout design and styling techniques.
 ---
 
 ## 🔗 Project Links
-- GitHub Repository: *(Add your link here)*
-- Demo Video (if applicable): *(Add your link here)*
+- GitHub Repository:https://github.com/Humeera-Banu-DK/OIBSIP_WebDev_Lel1Task1
+- Demo Video:(https://www.linkedin.com/posts/humeera-banu-d-k-b4586a2bb_oasisinfobyte-internship-webdevelopment-activity-7415371032154308608-xK_I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEzV_-UBxINIGAW0DfFOud212GSjXkJl9Lc)
 
 ---
 
